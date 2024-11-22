@@ -57,6 +57,10 @@ header {
     margin-right: 490px;
 }
 
+::placeholder {
+    color: #7777774b;
+}
+
 .navig ul a:hover {
     color: #b45309;
     cursor: pointer;
