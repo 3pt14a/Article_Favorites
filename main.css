@@ -433,6 +433,8 @@ form button:hover {
 
 .contacts h3, .contacts p{
     font-size: 12px;
+    color: #451a03;
+    text-decoration: none;
 }
 
 .sendto {
