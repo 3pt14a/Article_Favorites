@@ -435,6 +435,27 @@ form button:hover {
     font-size: 12px;
 }
 
+.sendto {
+    text-decoration: none;
+    color: #451a03;
+}
+
+.contacts:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 10px #00000033;
+}
+
+.socmeds {
+    text-decoration: none;
+    color: #451a03;
+}
+
+.socmeds:hover {
+    cursor: pointer;
+    text-shadow: 5px 5px 10px #00000033;
+    color: #b45309;
+}
+
 .socials {
     padding: 22px;
     margin-left: 20px;
